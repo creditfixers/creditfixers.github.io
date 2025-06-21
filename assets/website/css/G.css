@@ -1,0 +1,14 @@
+.xcblog-blog-detail {}
+.xcblog-blog-detail p {line-height: 1.8rem;font-size: 1rem;}
+.xcblog-blog-detail h2 {margin: 1.5rem 0;font-size: 1.5rem;}
+.xcblog-blog-detail h3 {margin: 1.5rem 0;font-size: 1.2rem;}
+
+.xcblog-blog-detail .bs-callout {
+	background: #fcf8e3;
+    border: 1px solid #faf3cd;
+    border-left: 0.5rem solid #faf3cd;
+    padding: 0.5rem 1rem;
+    line-height: 2rem;
+    margin-top: 1rem;
+    color: #c09853;
+}
